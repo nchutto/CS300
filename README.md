@@ -1,1 +1,16 @@
-# CS300
+# CS300 Data Structures and Algorithms Portfolio
+
+## Reflection
+
+I worked on two major projects in this course that focused on understanding and applying data structures and algorithms. The first project was an analysis of the efficiency in run-time and memory usage of several key structures: vectors, linked lists, and hash tables.
+
+The second project was an end-to-end project where I implemented a binary search tree in C++ that would sort and display a list of Computer Science courses that could be taken.
+
+I learned from these projects the real-world significance of selecting the proper data structure for specific tasks. They put my skills to the test—especially my abilities to manage pointers and debug the sometimes fearsome logic of tree traversal—and I emerged victorious through the old standbys of constant testing and consulting the course materials.
+
+I have a much better understanding now of how to write programs that are maintainable, modular, and scalable. This work has solidified my approach to software development, focusing on clarity, structure, and thoughtful design decisions.
+
+## Included Artifacts
+
+- Project One: Runtime and Memory Analysis of Data Structures  
+- Project Two: Working C++ code for Binary Search Tree implementation and course sorting
