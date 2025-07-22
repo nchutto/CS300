@@ -47,6 +47,6 @@ g++ -o ProjectTwo ProjectTwo.cpp
 ./ProjectTwo
 ```
 
-##Connect with me!
+## Connect with me!
 Check out my full [GitHub Portfolio](https://github.com/nchutto)
 Connect with me on [LinkedIn](https://linkedin.com/in/nicole-hutto-17b953b8)
