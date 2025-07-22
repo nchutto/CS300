@@ -13,4 +13,37 @@ I have a much better understanding now of how to write programs that are maintai
 ## Included Artifacts
 
 - Project One: Runtime and Memory Analysis of Data Structures  
-- Project Two: Working C++ code for Binary Search Tree implementation and course sorting
+  ➤ Compared efficiency of vectors, linked lists, and hash tables using C++  
+  ➤ Analyzed trade-offs and documented performance observations
+
+- Project Two: Binary Search Tree (BST) for Course Scheduling  
+  ➤ C++ implementation of a BST that stores and sorts course data  
+  ➤ Full application logic: insert, search, sort, and display
+
+
+## Technologies Used
+
+- C++
+- Custom CSV parsing
+- OOP principles (encapsulation, modularity)
+- Git & GitHub for version control
+
+
+
+## Key Concepts Demonstrated
+
+- Algorithm efficiency (Big-O analysis)
+- Linked list manipulation
+- Tree traversal (in-order, pre-order, post-order)
+- Runtime/memory trade-offs
+
+---
+
+## 🚀 How to Run
+
+```bash
+# Compile the C++ project
+g++ -o ProjectTwo ProjectTwo.cpp
+
+# Run the program
+./ProjectTwo
