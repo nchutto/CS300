@@ -36,7 +36,6 @@ I have a much better understanding now of how to write programs that are maintai
 - Linked list manipulation
 - Tree traversal (in-order, pre-order, post-order)
 - Runtime/memory trade-offs
-## How to Run
 
 
 ## How to Run
@@ -48,5 +47,5 @@ g++ -o ProjectTwo ProjectTwo.cpp
 ./ProjectTwo
 ``` 
 Connect with me!
-Check out my full [GitHub Portfolio](https://github.com/nchutto)
+Check out my full [GitHub Portfolio](https://github.com/nchutto) ```
 Connect with me on [LinkedIn](https://linkedin.com/in/nicole-hutto-17b953b8)
