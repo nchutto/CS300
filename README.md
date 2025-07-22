@@ -39,8 +39,7 @@ I have a much better understanding now of how to write programs that are maintai
 
 ---
 
-## 🚀 How to Run
-
+## How to Run
 ```bash
 # Compile the C++ project
 g++ -o ProjectTwo ProjectTwo.cpp
